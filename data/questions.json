@@ -8271,7 +8271,7 @@
           },
           "has_image": true,
           "image_code": "R-18",
-          "image_path": null,
+          "image_path": "images/placa_R-18.png",
           "correct": "A"
         },
         {
@@ -8286,7 +8286,7 @@
           },
           "has_image": true,
           "image_code": "R-22",
-          "image_path": null,
+          "image_path": "images/placas_R-22.png",
           "correct": "B"
         },
         {
@@ -8301,7 +8301,7 @@
           },
           "has_image": true,
           "image_code": "R-25d",
-          "image_path": null,
+          "image_path": "images/placas_R-25d.png",
           "correct": "C"
         },
         {
@@ -8331,7 +8331,7 @@
           },
           "has_image": true,
           "image_code": "R-10",
-          "image_path": null,
+          "image_path": "images/placas_R-10.png",
           "correct": "B"
         },
         {
@@ -8346,7 +8346,7 @@
           },
           "has_image": true,
           "image_code": "R-12",
-          "image_path": null,
+          "image_path": "images/placas_R-12.png",
           "correct": "B"
         },
         {
@@ -8361,7 +8361,7 @@
           },
           "has_image": true,
           "image_code": "R-13",
-          "image_path": null,
+          "image_path": "images/placas_R-13.png",
           "correct": "D"
         },
         {
@@ -8421,7 +8421,7 @@
           },
           "has_image": true,
           "image_code": "R-13",
-          "image_path": null,
+          "image_path": "images/placas_R-13.png",
           "correct": "D"
         },
         {
@@ -8463,7 +8463,7 @@
         },
         {
           "number": 2,
-          "text": "Diante da placa ao lado (I-11), você entende que",
+          "text": "Diante da placa ao lado (SAU-01), você entende que",
           "alternatives": {
             "A": "existe um local com estabelecimento onde você pode dormir.",
             "B": "existe um posto de socorro médico junto ou próximo à via.",
@@ -8473,7 +8473,7 @@
           },
           "has_image": true,
           "image_code": "I-11",
-          "image_path": null,
+          "image_path": "images/placas_I-11.png",
           "correct": "C"
         },
         {
@@ -8493,7 +8493,7 @@
         },
         {
           "number": 4,
-          "text": "Diante da placa ao lado (I-13), você entende que é uma área com",
+          "text": "Diante da placa ao lado (SAU-07), você entende que é uma área com",
           "alternatives": {
             "A": "posto de socorro médico, junto ou próximo à via.",
             "B": "loja de ferramentas.",
@@ -8503,7 +8503,7 @@
           },
           "has_image": true,
           "image_code": "I-13",
-          "image_path": null,
+          "image_path": "images/placas_I-13.jpg",
           "correct": "E"
         },
         {
@@ -8523,7 +8523,7 @@
         },
         {
           "number": 6,
-          "text": "Diante da placa ao lado (I-14), você entende que encontrará",
+          "text": "Diante da placa ao lado (SAU-09), você entende que encontrará",
           "alternatives": {
             "A": "um local permitido para estacionamento de trailer.",
             "B": "uma oficina mecânica.",
@@ -8533,12 +8533,12 @@
           },
           "has_image": true,
           "image_code": "I-14",
-          "image_path": null,
+          "image_path": "images/placas_I-14.jpg",
           "correct": "D"
         },
         {
           "number": 7,
-          "text": "Diante da placa ao lado (I-15), você entende que existe",
+          "text": "Diante da placa ao lado (SAU-10), você entende que existe",
           "alternatives": {
             "A": "uma área sinalizada para estacionar seu veículo.",
             "B": "uma área com oficina mecânica.",
@@ -8548,7 +8548,7 @@
           },
           "has_image": true,
           "image_code": "I-15",
-          "image_path": null,
+          "image_path": "images/placas_I-15.webp",
           "correct": "C"
         },
         {
@@ -8568,7 +8568,7 @@
         },
         {
           "number": 9,
-          "text": "Diante da placa ao lado (I-17), você entende que existe",
+          "text": "Diante da placa ao lado (SAU-12), você entende que existe",
           "alternatives": {
             "A": "um restaurante à distância indicada na placa.",
             "B": "um aeroporto nas proximidades.",
@@ -8578,12 +8578,12 @@
           },
           "has_image": true,
           "image_code": "I-17",
-          "image_path": null,
+          "image_path": "images/placas_I-17.jpg",
           "correct": "A"
         },
         {
           "number": 10,
-          "text": "Diante da placa ao lado (I-19), você entende que é uma área",
+          "text": "Diante da placa ao lado (SAU-14), você entende que é uma área",
           "alternatives": {
             "A": "com aeroporto nas proximidades.",
             "B": "com sanitários.",
@@ -8593,12 +8593,12 @@
           },
           "has_image": true,
           "image_code": "I-19",
-          "image_path": null,
+          "image_path": "images/placas_I-19.png",
           "correct": "C"
         },
         {
           "number": 11,
-          "text": "Diante da placa ao lado (I-20), você entende que",
+          "text": "Diante da placa ao lado (SAU-21), você entende que",
           "alternatives": {
             "A": "existe um posto de socorro médico, junto ou próximo à via.",
             "B": "pode estacionar seu veículo.",
@@ -8608,12 +8608,12 @@
           },
           "has_image": true,
           "image_code": "I-20",
-          "image_path": null,
+          "image_path": "images/placas_I-20.jpg",
           "correct": "D"
         },
         {
           "number": 12,
-          "text": "Diante da placa ao lado (I-22), você entende que existe",
+          "text": "Diante da placa ao lado (SAU-15), você entende que existe",
           "alternatives": {
             "A": "um aeroporto nas proximidades.",
             "B": "um local permitido para estacionamento de trailer.",
@@ -8623,12 +8623,12 @@
           },
           "has_image": true,
           "image_code": "I-22",
-          "image_path": null,
+          "image_path": "images/placas_I-22.jpg",
           "correct": "B"
         },
         {
           "number": 13,
-          "text": "Diante da placa ao lado (I-23), você entende que existe",
+          "text": "Diante da placa ao lado (SAU-26), você entende que existe",
           "alternatives": {
             "A": "um restaurante à distância indicada na placa.",
             "B": "uma passagem protegida, elevada ou subterrânea, para travessia da via por pedestres.",
@@ -8638,7 +8638,7 @@
           },
           "has_image": true,
           "image_code": "I-23",
-          "image_path": null,
+          "image_path": "images/placas_I-23.webp",
           "correct": "E"
         },
         {
@@ -8718,7 +8718,7 @@
         },
         {
           "number": 19,
-          "text": "Diante da placa ao lado (I-12), você entende que",
+          "text": "Diante da placa ao lado (SAU-06), você entende que",
           "alternatives": {
             "A": "existe um aeroporto nas proximidades.",
             "B": "existe um local com estabelecimento onde você pode dormir.",
@@ -8728,12 +8728,12 @@
           },
           "has_image": true,
           "image_code": "I-12",
-          "image_path": null,
+          "image_path": "images/placas_I-12.webp",
           "correct": "D"
         },
         {
           "number": 20,
-          "text": "Diante da placa ao lado (I-18), você entende que há um",
+          "text": "Diante da placa ao lado (SAU-13), você entende que há um",
           "alternatives": {
             "A": "local permitido para estacionamento de trailer.",
             "B": "asilo para idosos nas proximidades.",
@@ -8743,12 +8743,12 @@
           },
           "has_image": true,
           "image_code": "I-18",
-          "image_path": null,
+          "image_path": "images/placas_I-18.png",
           "correct": "E"
         },
         {
           "number": 21,
-          "text": "Diante da placa ao lado (I-21), você entende que",
+          "text": "Diante da placa ao lado (SAU-24), você entende que",
           "alternatives": {
             "A": "pode fazer a travessia com seu veículo utilizando balsa.",
             "B": "existe um aeroporto nas proximidades.",
@@ -8758,7 +8758,7 @@
           },
           "has_image": true,
           "image_code": "I-21",
-          "image_path": null,
+          "image_path": "images/placas_I-21.png",
           "correct": "A"
         },
         {
@@ -8883,7 +8883,7 @@
         },
         {
           "number": 30,
-          "text": "Diante da placa ao lado (I-16), você entende que existe uma",
+          "text": "Diante da placa ao lado (SAU-11), você entende que existe uma",
           "alternatives": {
             "A": "área com oficina mecânica.",
             "B": "área com sanitários.",
@@ -8893,7 +8893,7 @@
           },
           "has_image": true,
           "image_code": "I-16",
-          "image_path": null,
+          "image_path": "images/placas_I-16.webp",
           "correct": "B"
         }
       ]
@@ -10193,7 +10193,7 @@
         },
         {
           "number": 9,
-          "text": "Diante da placa ao lado (I-13), você entende que é uma área com",
+          "text": "Diante da placa ao lado (SAU-07), você entende que é uma área com",
           "alternatives": {
             "A": "posto de socorro médico, junto ou próximo à via.",
             "B": "loja de ferramentas.",
@@ -10203,7 +10203,7 @@
           },
           "has_image": true,
           "image_code": "I-13",
-          "image_path": null,
+          "image_path": "images/placas_I-13.jpg",
           "correct": "E"
         },
         {
@@ -10599,7 +10599,7 @@
           },
           "has_image": true,
           "image_code": "R-18",
-          "image_path": null,
+          "image_path": "images/placa_R-18.png",
           "correct": "A"
         },
         {
@@ -11121,7 +11121,7 @@
         },
         {
           "number": 10,
-          "text": "Diante da placa ao lado (I-12), você entende que",
+          "text": "Diante da placa ao lado (SAU-06), você entende que",
           "alternatives": {
             "A": "existe um aeroporto nas proximidades.",
             "B": "existe um local com estabelecimento onde você pode dormir.",
@@ -11131,7 +11131,7 @@
           },
           "has_image": true,
           "image_code": "I-12",
-          "image_path": null,
+          "image_path": "images/placas_I-12.webp",
           "correct": "D"
         },
         {
@@ -11975,7 +11975,7 @@
         },
         {
           "number": 6,
-          "text": "Diante da placa ao lado (I-14), você entende que encontrará",
+          "text": "Diante da placa ao lado (SAU-09), você entende que encontrará",
           "alternatives": {
             "A": "um local permitido para estacionamento de trailer.",
             "B": "uma oficina mecânica.",
@@ -11985,7 +11985,7 @@
           },
           "has_image": true,
           "image_code": "I-14",
-          "image_path": null,
+          "image_path": "images/placas_I-14.jpg",
           "correct": "D"
         },
         {
@@ -12472,7 +12472,7 @@
           },
           "has_image": true,
           "image_code": "R-18",
-          "image_path": null,
+          "image_path": "images/placa_R-18.png",
           "correct": "A"
         },
         {
@@ -12814,7 +12814,7 @@
       "questions": [
         {
           "number": 1,
-          "text": "Diante da placa ao lado (I-15), você entende que existe",
+          "text": "Diante da placa ao lado (SAU-10), você entende que existe",
           "alternatives": {
             "A": "uma área sinalizada para estacionar seu veículo.",
             "B": "uma área com oficina mecânica.",
@@ -12824,7 +12824,7 @@
           },
           "has_image": true,
           "image_code": "I-15",
-          "image_path": null,
+          "image_path": "images/placas_I-15.webp",
           "correct": "C"
         },
         {
@@ -13828,7 +13828,7 @@
           },
           "has_image": true,
           "image_code": "R-13",
-          "image_path": null,
+          "image_path": "images/placas_R-13.png",
           "correct": "D"
         },
         {
@@ -14732,7 +14732,7 @@
         },
         {
           "number": 7,
-          "text": "Diante da placa ao lado (I-16), você entende que existe uma",
+          "text": "Diante da placa ao lado (SAU-11), você entende que existe uma",
           "alternatives": {
             "A": "área com oficina mecânica.",
             "B": "área com sanitários.",
@@ -14742,7 +14742,7 @@
           },
           "has_image": true,
           "image_code": "I-16",
-          "image_path": null,
+          "image_path": "images/placas_I-16.webp",
           "correct": "B"
         },
         {
@@ -22988,7 +22988,7 @@
         },
         {
           "number": 9,
-          "text": "Diante da placa ao lado (I-13), você entende que é uma área com",
+          "text": "Diante da placa ao lado (SAU-07), você entende que é uma área com",
           "alternatives": {
             "A": "posto de socorro médico, junto ou próximo à via.",
             "B": "loja de ferramentas.",
@@ -22998,7 +22998,7 @@
           },
           "has_image": true,
           "image_code": "I-13",
-          "image_path": null,
+          "image_path": "images/placas_I-13.jpg",
           "correct": "E"
         },
         {
