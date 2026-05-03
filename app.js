@@ -390,43 +390,39 @@ function closeModal() {
   document.getElementById('modal-exit').style.display = 'none';
 }
 
-/* ===== Carregamento de imagem com suporte a WebP ===== */
+/* ===== Carregamento de imagem ===== */
 function loadQuestionImage(imgEl, placeholder, q) {
-  const path = q.image_path;
   const codeEl = document.getElementById('q-image-code');
+  const EXTS = ['.webp', '.png', '.jpg', '.jpeg', '.JPG', '.PNG', '.WEBP', '.JPEG'];
 
-  // Tenta carregar o caminho informado (PNG, JPG ou WebP)
-  imgEl.src = path;
-  imgEl.style.display = 'block';
+  // Monta lista de candidatos: caminho original primeiro, depois variantes de extensão
+  const original = q.image_path;
+  const base = original.replace(/\.[^.]+$/, '');
+  const originalExt = (original.match(/\.[^.]+$/)?.[0] || '').toLowerCase();
+  const variants = [original, ...EXTS.filter(e => e.toLowerCase() !== originalExt).map(e => base + e)];
+
+  // Oculta imagem até confirmar carregamento
+  imgEl.style.display = 'none';
   placeholder.style.display = 'none';
 
-  imgEl.onerror = () => {
-    // Falhou: tenta variantes de extensão antes de exibir placeholder
-    const variants = alternativeExtensions(path);
-    tryNextVariant(imgEl, placeholder, variants, 0, codeEl, q.image_code || '');
-  };
+  tryVariants(imgEl, placeholder, codeEl, variants, 0, q.image_code || '');
 }
 
-function alternativeExtensions(originalPath) {
-  const EXTS = ['.webp', '.png', '.jpg', '.jpeg'];
-  const base = originalPath.replace(/\.[^.]+$/, '');
-  const original = originalPath.match(/\.[^.]+$/)?.[0]?.toLowerCase() || '';
-  return EXTS.filter(e => e !== original).map(e => base + e);
-}
-
-function tryNextVariant(imgEl, placeholder, variants, index, codeEl, code) {
+function tryVariants(imgEl, placeholder, codeEl, variants, index, code) {
   if (index >= variants.length) {
     imgEl.style.display = 'none';
     placeholder.style.display = 'flex';
     codeEl.textContent = code;
     return;
   }
-  imgEl.src = variants[index];
-  imgEl.onerror = () => tryNextVariant(imgEl, placeholder, variants, index + 1, codeEl, code);
+  imgEl.onload = null;
+  imgEl.onerror = null;
   imgEl.onload = () => {
     imgEl.style.display = 'block';
     placeholder.style.display = 'none';
   };
+  imgEl.onerror = () => tryVariants(imgEl, placeholder, codeEl, variants, index + 1, code);
+  imgEl.src = variants[index];
 }
 
 /* ===== Utilitários ===== */
