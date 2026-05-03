@@ -1,0 +1,334 @@
+                                 Simulado Tecnodata - Prova
+
+
+ Prova mista 02
+
+
+   1   O trânsito sobre passeio e calçadas é permitido para
+
+
+
+       A - fugir de congestionamento.
+       B - apanhar passageiros.
+       C - cortar caminho.
+       D - acesso a estacionamento e/ou imóveis.
+       E - fazer manobra de retorno.
+
+   2   As marcas separadoras de faixas de trânsito em vias de mão dupla que 
+       proíbem ao condutor ultrapassar outro veículo em movimento são
+
+
+
+       A - brancas seccionadas.
+       B - amarelas seccionadas.
+       C - amarelas contínuas.
+       D - seccionadas.
+       E - brancas contínuas.
+
+   3   Você está em uma via de bastante movimento e surge uma rotatória à frente 
+       com um veículo lento fazendo seu contorno. Você deve
+
+
+
+       A - buzinar para avisar que você está entrando com prioridade.
+       B - diminuir a velocidade e deixar o outro carro completar seu trajeto.
+       C - acelerar para adentrar à rotatória antes que aquele carro lhe atrapalhe.
+       D - estacionar o veículo até que o outro complete a travessia.
+       E - continuar seu trajeto sem qualquer alteração pois quem está na rotatória não tem 
+           preferência.
+
+   4   As marcas separadoras de faixas de trânsito que permitem ao condutor 
+       ultrapassar outro veículo em movimento são
+
+
+
+       A - amarelas contínuas.
+       B - brancas contínuas.
+       C - contínuas.
+       D - amarelas contínuas ou seccionadas.
+       E - seccionadas.
+
+   5   Marcas que delineiam a parte da pista destinada à circulação de veículos, 
+       separando-a do acostamento, chamam-se linhas
+
+
+
+       A - planas.
+       B - linhas férreas.
+       C - limite.
+       D - de ônibus.
+       E - de bordo.
+
+   6   Quando é permitido o tráfego pelo acostamento em uma estrada?
+
+
+
+       A - Quando a pista estiver congestionada.
+       B - Quando, devido à problema mecânico, o seu veículo estiver lento.
+       C - Para acessar a imóveis lindeiros ou fazer conversões.
+       D - Para rebocar um veículo acidentado ou com problemas mecânicos.
+       E - Para ultrapassagem de veículos muito lentos.
+
+   7   Você está dirigindo em uma avenida, após uma chuva forte e, de repente, 
+       ocorre o fenômeno da aquaplanagem (o veículo "flutua" sobre a lâmina 
+       d'água na pista). Nessa situação você
+
+
+
+       A - tira o pé do acelerador e segura firmemente a direção até que seja reestabelecida 
+           a aderência do pneu com o solo.
+       B - freia o veículo bruscamente para reestabelecer a aderência do pneu com o solo.
+       C - acelera o veículo, segurando firmemente a direção.
+       D - liga as luzes de emergência (pisca-alerta) para advertir os demais motoristas da 
+           situação de risco.
+       E - freia bruscamente o veículo, acionando as luzes de emergência (pisca-alerta).
+
+   8   A marcação de áreas de estacionamento que indicam ao condutor que ali é 
+       permitido estacionar é feita na cor
+
+
+
+       A - amarela.
+       B - branca.
+       C - azul.
+       D - verde.
+       E - vermelha.
+
+   9   Ao atravessar uma passagem de nível com uma ferrovia, sem cancela, você 
+       deve
+
+
+
+       A - reduzir a velocidade e atravessar a via férrea.
+       B - parar o veículo, olhar para ambos os lados e efetuar o cruzamento com segurança.
+       C - buzinar antes de atravessar.
+       D - acender os faróis do veículo.
+       E - efetuar a travessia bem devagar.
+
+  10   A marcação de áreas de estacionamento que indica ao condutor a proibição 
+       para estacionar é feita na cor
+
+
+
+       A - azul.
+       B - branca.
+       C - verde.
+       D - amarela.
+       E - vermelha.
+
+  11   Ao dirigir em uma rodovia, ocorre uma situação de ventos laterais fortes. 
+       Nessa situação você
+
+
+
+       A - fecha as janelas do veículo e continua com a mesma velocidade.
+       B - abre as janelas do veículo e continua com a mesma velocidade.
+       C - reduz a marcha do veículo, adotando uma velocidade compatível com a situação.
+       D - mantém a velocidade normal.
+       E - deve aumentar a velocidade.
+
+  12   Um trecho de uma via de mão dupla é dividido ao centro por duas linhas 
+       amarelas contínuas; isso significa que nesse trecho é
+
+
+
+       A - proibido ultrapassar nos dois sentidos.
+       B - permitido ultrapassar nos dois sentidos.
+       C - proibido ultrapassar pela direita.
+       D - proibido ultrapassar pela esquerda.
+       E - permitido ultrapassar apenas veículos muito lentos.
+
+  13   Você tem um compromisso urgente e está atrasado. Ao passar por um trecho 
+       de rodovia, você encontra uma situação de trânsito intenso, quase 
+       congestionado, que obriga a circulação com velocidade bastante reduzida. 
+       Nessa situação você
+
+
+
+       A - trafega com cuidado pelo acostamento.
+       B - buzina insistentemente, pedindo passagem aos demais motoristas.
+       C - buzina e liga os faróis altos, pedindo passagem aos demais motoristas.
+       D - liga os faróis altos para indicar aos demais motoristas a sua pressa.
+       E - mantém a calma e dirige normalmente.
+
+  14   Um trecho de uma via de mão dupla é dividido ao centro por linha amarela 
+       seccionada; isso significa que nesse trecho é
+
+
+
+       A - proibido ultrapassar pela esquerda.
+       B - proibido ultrapassar.
+       C - proibido ultrapassar pela direita.
+       D - permitido ultrapassar.
+       E - permitido ultrapassar pela direita.
+
+  15   Você passou por engano da saída da rodovia, e só haverá outra saída a 5 km 
+       adiante. Você deve, então,
+
+
+
+       A - parar no acostamento e com cuidado dar marcha a ré até a saída.
+       B - aguardar uma folga no trânsito e fazer o retorno em alguma abertura no canteiro 
+           central.
+       C - andar os 5 km até a próxima saída.
+       D - voltar pela contramão com os faróis altos acesos e pisca alerta ligado.
+       E - desistir da viagem e ir para outro local.
+
+  16   As linhas seccionadas ou contínuas, as faixas para pedestres, os sinais e 
+       as palavras inscritas no solo são marcas que caracterizam a sinalização
+
+
+
+       A - vertical.
+       B - horizontal.
+       C - por gestos.
+       D - por barreiras.
+       E - auxiliar de segurança.
+
+  17   Você está em uma via preferencial de duas pistas com grande movimento e 
+       quer entrar em uma rua transversal à esquerda. Há um movimento muito 
+       grande nos dois sentidos e uma fila de carros começa a se formar atrás do 
+       seu veículo. Visando não atrapalhar os o
+
+
+
+       A - ir avançando devagar de forma que os veículos percebam sua intenção e lhe dêem 
+           passagem.
+       B - parar no centro da pista, aguardando uma brecha no fluxo do sentido contrário e 
+           tentar entrar o mais rápido possível.
+       C - ligar o farol alto e o pisca alerta para advertir os demais motoristas que você 
+           vai efetuar a manobra.
+       D - seguir em frente e procurar entrar à direita para fazer o retorno no quarteirão e 
+           atravessar a via num ponto em que exista semáforo.
+       E - desistir da manobra, pois nunca é permitida a conversão à esquerda em avenidas.
+
+  18   Linhas transversais inscritas na cor branca que, através de efeito visual, 
+       estimulam os condutores a reduzirem a velocidade, chamam-se linhas de 
+       estímulo
+
+
+
+       A - ao aumento de velocidade.
+       B - à redução de velocidade.
+       C - aos condutores de veículos coletivos.
+       D - à travessia de pedestres.
+       E - à segurança viária.
+
+  19   As marcas na cor branca que advertem os condutores da existência de 
+       movimentação de pedestres na área são chamadas de
+
+
+
+       A - linhas de estímulo à redução de velocidade.
+       B - linhas de bordo.
+       C - faixas de travessia de pedestres.
+       D - linhas de retenção.
+       E - faixas de segurança máxima.
+
+  20   Ao dirigir em uma rodovia, você entra em um trecho com neblina muito 
+       intensa, praticamente impedindo a visão. Nessa situação você deve
+
+
+
+       A - parar em qualquer lugar, ligando as luzes de emergência.
+       B - prosseguir a viagem com velocidade reduzida, acionando as luzes de emergência.
+       C - prosseguir a viagem com velocidade reduzida, acionando os faróis altos.
+       D - procurar um local seguro, fora da pista, para parar o veículo e aguardar a 
+           melhoria da visibilidade.
+       E - manter a mesma velocidade, pois algum veículo pode bater na traseira do seu 
+           veículo.
+
+  21   Marcas que indicam locais para circulação, parada ou estacionamento 
+       exclusivo de veículos específicos inscritas em áreas de estabelecimentos 
+       especiais, de embarque, desembarque de passageiros, cargas e 
+       estacionamento reservado a veículos específicos são c
+
+
+
+       A - interseção em rótula.
+       B - canalização.
+       C - marcação de áreas reservadas.
+       D - linhas de retenção.
+       E - linhas de bordo.
+
+  22   A sinalização horizontal se apresenta nas seguintes cores:
+
+
+
+       A - amarela, vermelha, branca, azul e preta.
+       B - amarela e branca, apenas.
+       C - amarela, vermelha e branca, apenas.
+       D - amarela, vermelha, branca, verde e preta.
+       E - amarela, vermelha, branca e azul, apenas.
+
+  23   De acordo com o padrão de traçado definido para a sinalização horizontal, 
+       uma linha longitudinal, sem interrupção no trecho da via onde está 
+       demarcando, denomina-se
+
+
+
+       A - linha contínua.
+       B - linha tracejada.
+       C - símbolo.
+       D - legenda.
+       E - linha seccionada.
+
+  24   As marcas utilizadas para reduzir pontos de conflito entre fluxos de 
+       tráfego, em uma via, são chamadas de
+
+
+
+       A - áreas neutras.
+       B - marcas de canalização.
+       C - linhas de bordo.
+       D - linhas de retenção.
+       E - linhas de segurança.
+
+  25   As marcas pintadas no asfalto, sempre na cor branca, antes da faixa de 
+       pedestres ou de cruzamentos com ciclovias, ferrovias e outras vias de uso 
+       rodoviário e que indicam aos condutores o local limite onde deverão parar 
+       os veículos para cederem o direito d
+
+
+
+       A - linhas de retenção.
+       B - linhas de bordo.
+       C - linhas de estímulo à redução de velocidade.
+       D - faixas de travessia de pedestres.
+       E - linhas de segurança.
+
+  26   A sinalização através de marcas no solo serve para
+
+
+
+       A - regulamentar as vias preferenciais.
+       B - reduzir os perigos existentes na via.
+       C - indicar cruzamento com vias locais.
+       D - orientar o condutor no seu deslocamento e limitar área de estacionamento.
+       E - regulamentar a velocidade correta.
+
+  27   Os elementos da sinalização horizontal que advertem aos condutores sobre a 
+       existência de local onde deverão redobrar a atenção ou de áreas reservadas 
+       a outros usuários da via chamam-se:
+
+
+
+       A - canalizações.
+       B - símbolos.
+       C - setas direcionais.
+       D - faixas.
+       E - linhas de bordo.
+
+  28   Linhas, marcações, símbolos e legendas pintadas nas vias são:
+
+
+
+       A - placas de advertência.
+       B - placas de regulamentação.
+       C - elementos da sinalização horizontal.
+       D - barreiras.
+       E - dispositivos auxiliares de segurança.
+
+
+                                                                                                      - 1
+

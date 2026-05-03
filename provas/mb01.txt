@@ -1,0 +1,311 @@
+                                 Simulado Tecnodata - Prova
+
+
+ Mecânica básica 01
+
+
+   1   O defeito mais comum no carburador caracteriza-se por
+
+
+
+       A - velas queimadas.
+       B - filtro de ar furado.
+       C - entupimento.
+       D - tanque de combustível furado.
+       E - rompimento do cabo do acelerador.
+
+   2   Os principais sistemas do veículo são:
+
+
+
+       A - motor, câmbio, diferencial, freio.
+       B - motor, transmissão, direção, suspensão, freio.
+       C - motor, embreagem, cardã, eixo motriz, semi-árvore.
+       D - motor, molas, amortecedores, pneus.
+       E - motor, freio, escapamento.
+
+   3   Fazem parte do sistema de suspensão de um veículo:
+
+
+
+       A - cilindro mestre, estabilizador.
+       B - molas, caixa de direção.
+       C - coroa/pinhão e pastilhas.
+       D - correia dentada e ventoinha.
+       E - molas, amortecedores.
+
+   4   Os amortecedores têm por função
+
+
+
+       A - evitar o atrito dos pneus com o solo.
+       B - auxiliar a mudança de direção nas curvas.
+       C - reduzir os movimentos bruscos da mola.
+       D - aumentar a vida dos pneus.
+       E - reduzir a velocidade.
+
+   5   São elementos do sistema de freio:
+
+
+
+       A - disco de fricção, aditivo, lonas de freio.
+       B - cabos primários, cabo secundário, travas.
+       C - cilindro mestre, disco, tambor.
+       D - eixo primário, eixo secundário, trem de engrenagens.
+       E - coroa/pinhão e lonas.
+
+   6   Os tipos de freios são:
+
+
+
+       A - mecânico, hidráulico.
+       B - hidráulico, hidramático.
+       C - antifricção, hidropneumático.
+       D - mecânico, eletromagnético.
+       E - mecânico, elétrico.
+
+   7   A finalidade da sangria no sistema de freios é
+
+
+
+       A - aumentar a pressão do pedal de freio.
+       B - evitar que as lonas se atritem no tambor de freio.
+       C - melhorar a sua lubrificação.
+       D - manter a altura do pedal constante.
+       E - eliminar bolhas de ar do sistema de freio.
+
+   8   O freio de estacionamento, geralmente, atua
+
+
+
+       A - nas rodas dianteiras.
+       B - na transmissão.
+       C - nas rodas traseiras.
+       D - no eixo cardã.
+       E - nas quatro rodas.
+
+   9   Fazem parte da embreagem:
+
+
+
+       A - platô, disco de fricção e rolamento da embreagem.
+       B - junta homocinética e pivôs.
+       C - bandejas e barras de sustentação.
+       D - pedal e câmbio.
+       E - molas e amortecedores.
+
+  10   A finalidade do filtro de combustível é
+
+
+
+       A - controlar a pressão de combustível.
+       B - aumentar o fluxo de combustível.
+       C - evitar o excesso de combustível.
+       D - reter as impurezas do combustível.
+       E - reter as impurezas do ar.
+
+  11   A finalidade do carburador é
+
+
+
+       A - bombear o combustível para o motor.
+       B - pressionar o combustível para o interior do cilindro-mestre.
+       C - pressionar o ar para a câmara de combustão.
+       D - manter a temperatura do ar limpo e aquecido.
+       E - misturar o ar com o combustível na proporção recomendada.
+
+  12   Nos veículos mais modernos, o carburador vem sendo substituído por:
+
+
+
+       A - ignição eletrônica.
+       B - distribuidor e bobina.
+       C - ignição e injeção eletrônica.
+       D - ligação direta.
+       E - injeção eletrônica.
+
+  13   Fazem parte do sistema elétrico:
+
+
+
+       A - radiador e ventoinha.
+       B - carburador e filtro de ar.
+       C - catalisador e canos de exaustão.
+       D - cabeçote, cilindros e pistão.
+       E - bateria, distribuidor e bobina.
+
+  14   Os sistemas de arrefecimento existentes podem ser:
+
+
+
+       A - somente a ar.
+       B - somente a água.
+       C - a álcool e a gasolina.
+       D - a água e a álcool.
+       E - a ar e a água.
+
+  15   Fazem parte do sistema arrefecido a água:
+
+
+
+       A - filtro de água e cárter.
+       B - ventoinha e alternador.
+       C - aditivos e distribuidor.
+       D - ignição e injeção eletrônicas.
+       E - radiador, bomba d’água e ventilador.
+
+  16   Uma das peças fundamentais do sistema de arrefecimento é
+
+
+
+       A - a bomba de combustível.
+       B - o alternador.
+       C - o distribuidor.
+       D - a ventoinha.
+       E - a bateria.
+
+  17   A finalidade do sistema de arrefecimento é
+
+
+
+       A - controlar as rotações do motor.
+       B - evitar o atrito das peças móveis do motor.
+       C - aquecer o motor.
+       D - reduzir a potência do motor.
+       E - manter a temperatura ideal de trabalho do motor.
+
+  18   A finalidade da válvula termostática é
+
+
+
+       A - diminuir o fluxo da água quando atingir a temperatura ideal.
+       B - impedir a passagem de água do radiador para o carburador.
+       C - indicar a temperatura quando o fluxo de água diminui.
+       D - impedir a passagem da água do radiador para o motor.
+       E - permitir a passagem de água do motor para o radiador quando a temperatura ideal 
+           for atingida.
+
+  19   O sistema de lubrificação tem a função de
+
+
+
+       A - diminuir o atrito e refrigerar as peças móveis do motor.
+       B - aquecer as peças móveis do motor.
+       C - alimentar o atrito e esquentar o motor para obter maior potência.
+       D - reduzir a emissão de gases poluentes.
+       E - refrigerar o radiador.
+
+  20   O instrumento do painel que indica a velocidade desenvolvida pelo veículo 
+       é o
+
+
+
+       A - odômetro.
+       B - tacógrafo.
+       C - manômetro.
+       D - velocímetro.
+       E - termômetro.
+
+  21   O painel de instrumentos do veículo serve para
+
+
+
+       A - completar a decoração interna do veículo.
+       B - indicar todo e qualquer tipo de defeito do veículo.
+       C - indicar a velocidade do veículo.
+       D - orientar o condutor sobre as condições gerais do veículo.
+       E - indicar os caminhos alternativos no trânsito.
+
+  22   Amperímetro, odômetro, botão de luzes e do limpador de pára-brisas são
+
+
+
+       A - componentes externos do painel.
+       B - instrumentos do painel.
+       C - órgãos auxiliares do motor.
+       D - equipamentos obrigatórios.
+       E - equipamentos, que auxiliam na escolha do melhor caminho.
+
+  23   O velocímetro é importante para o condutor porque
+
+
+
+       A - indica a quilometragem percorrida pelo veículo.
+       B - permite ao condutor diminuir a velocidade e fazer mudança de marchas.
+       C - indica a velocidade desenvolvida pelo veículo.
+       D - impede que o veículo atinja uma velocidade superior a 80 km/h.
+       E - orienta a velocidade adequada à situação presente.
+
+  24   Assinale na folha de respostas a alternativa correta.
+
+
+
+       A - Manômetro: indica a pressão do óleo no motor.
+       B - Termômetro: indica a descarga da bateria.
+       C - Amperímetro: indica o nível da água no radiador.
+       D - Odômetro: indica o nível de combustível.
+       E - Tacógrafo: registra a pressão dos pneus.
+
+  25   Assinale na folha de respostas a alternativa correta.
+
+
+
+       A - Termômetro: indica a pressão do óleo do motor.
+       B - Voltímetro: indica o número de voltas das rodas.
+       C - Manômetro: indica o nível da água no radiador.
+       D - Odômetro: indica o nível de combustível.
+       E - Amperímetro: indica a carga do dínamo e a descarga da bateria.
+
+  26   O instrumento do painel que indica a temperatura do motor é o
+
+
+
+       A - amperímetro.
+       B - termômetro.
+       C - odômetro.
+       D - manômetro.
+       E - tacômetro.
+
+  27   Os principais componentes do sistema de transmissão são:
+
+
+
+       A - caixa de marcha, carburador e distribuidor.
+       B - direção hidráulica e alavanca do câmbio.
+       C - embreagem e câmbio.
+       D - motor, rodas e pneus.
+       E - molas e amortecedores.
+
+  28   O termômetro é utilizado para indicar
+
+
+
+       A - alterações na composição do fluido de freio.
+       B - a temperatura do motor.
+       C - a temperatura do combustível.
+       D - a temperatura no interior do veículo.
+       E - a temperatura no exterior do veículo.
+
+  29   O distribuidor faz parte do sistema
+
+
+
+       A - de freio.
+       B - automático.
+       C - elétrico.
+       D - de transmissão.
+       E - de arrefecimento.
+
+  30   A circulação da água entre o motor e o radiador é forçada
+
+
+
+       A - pelo carburador.
+       B - pela bomba d’água.
+       C - pela bomba de óleo.
+       D - pela roda d’água.
+       E - pela correia dentada.
+
+
+                                                                                                      - 1
+

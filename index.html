@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulador DETRAN</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- TELA INICIAL -->
+<div id="screen-home" class="screen active">
+  <div class="home-header">
+    <div class="logo">🚗</div>
+    <h1>Simulador DETRAN</h1>
+    <p class="subtitle">Prepare-se para sua prova com simulados completos</p>
+  </div>
+
+  <div class="home-cards">
+    <div class="card-mode detran" onclick="startDetranMode()">
+      <div class="card-icon">🏛️</div>
+      <h2>Simulado DETRAN</h2>
+      <p>30 questões distribuídas por tema, idêntico ao exame oficial</p>
+      <div class="card-badge">OFICIAL</div>
+      <div class="card-info">
+        <span>30 questões</span>
+        <span>·</span>
+        <span>Mínimo 21 acertos</span>
+      </div>
+    </div>
+
+    <div class="card-mode practice" onclick="showScreen('screen-categories')">
+      <div class="card-icon">📚</div>
+      <h2>Praticar por Tema</h2>
+      <p>Escolha uma categoria específica e pratique por simulados</p>
+      <div class="card-info">
+        <span>6 categorias</span>
+        <span>·</span>
+        <span>57 simulados</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="home-stats" id="home-stats"></div>
+</div>
+
+<!-- TELA DE CATEGORIAS -->
+<div id="screen-categories" class="screen">
+  <div class="top-bar">
+    <button class="btn-back" onclick="showScreen('screen-home')">← Voltar</button>
+    <h2>Escolha uma Categoria</h2>
+  </div>
+  <div class="categories-grid" id="categories-grid"></div>
+</div>
+
+<!-- TELA DE PROVAS DE UMA CATEGORIA -->
+<div id="screen-exams" class="screen">
+  <div class="top-bar">
+    <button class="btn-back" onclick="showScreen('screen-categories')">← Voltar</button>
+    <h2 id="exams-title">Simulados</h2>
+  </div>
+  <div class="exams-list" id="exams-list"></div>
+</div>
+
+<!-- TELA DE QUESTÃO -->
+<div id="screen-question" class="screen">
+  <div class="question-header">
+    <button class="btn-back" onclick="confirmExit()">✕ Sair</button>
+    <div class="progress-info">
+      <span id="q-counter">1 / 30</span>
+      <span id="q-mode-label" class="mode-label"></span>
+    </div>
+    <div class="score-live" id="score-live">✓ 0 &nbsp; ✗ 0</div>
+  </div>
+
+  <div class="progress-bar-wrap">
+    <div class="progress-bar" id="progress-bar"></div>
+  </div>
+
+  <div class="question-body">
+    <div class="question-image-wrap" id="q-image-wrap" style="display:none">
+      <img id="q-image" src="" alt="Imagem da questão">
+      <div id="q-image-placeholder" class="image-placeholder">
+        <span>🖼️</span>
+        <p>Imagem não disponível</p>
+        <small id="q-image-code"></small>
+      </div>
+    </div>
+
+    <p class="question-number-label" id="q-number-label">Questão 1</p>
+    <p class="question-text" id="q-text"></p>
+
+    <div class="alternatives" id="alternatives"></div>
+
+    <div class="feedback-box" id="feedback-box" style="display:none">
+      <div class="feedback-icon" id="feedback-icon"></div>
+      <div class="feedback-text">
+        <p id="feedback-msg"></p>
+        <p class="feedback-correct" id="feedback-correct"></p>
+      </div>
+    </div>
+
+    <div class="question-actions">
+      <button class="btn-action btn-next" id="btn-next" onclick="nextQuestion()" style="display:none">
+        Próxima →
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- TELA DE RESULTADO -->
+<div id="screen-result" class="screen">
+  <div class="result-container">
+    <div class="result-icon" id="result-icon"></div>
+    <h2 id="result-title"></h2>
+    <p id="result-subtitle"></p>
+
+    <div class="result-score-circle">
+      <svg viewBox="0 0 120 120">
+        <circle cx="60" cy="60" r="54" class="circle-bg"/>
+        <circle cx="60" cy="60" r="54" class="circle-fg" id="result-circle"/>
+      </svg>
+      <div class="score-text">
+        <span id="result-pct"></span>
+        <small>acertos</small>
+      </div>
+    </div>
+
+    <div class="result-stats">
+      <div class="stat-item correct">
+        <span id="res-correct">0</span>
+        <label>Corretas</label>
+      </div>
+      <div class="stat-item wrong">
+        <span id="res-wrong">0</span>
+        <label>Erradas</label>
+      </div>
+      <div class="stat-item total">
+        <span id="res-total">0</span>
+        <label>Total</label>
+      </div>
+    </div>
+
+    <div class="result-breakdown" id="result-breakdown"></div>
+
+    <div class="result-actions">
+      <button class="btn-primary" onclick="reviewAnswers()">📋 Revisar Respostas</button>
+      <button class="btn-secondary" onclick="showScreen('screen-home')">🏠 Menu Principal</button>
+    </div>
+  </div>
+</div>
+
+<!-- TELA DE REVISÃO -->
+<div id="screen-review" class="screen">
+  <div class="top-bar">
+    <button class="btn-back" onclick="showScreen('screen-result')">← Voltar</button>
+    <h2>Revisão das Respostas</h2>
+  </div>
+  <div class="review-list" id="review-list"></div>
+</div>
+
+<!-- MODAL DE CONFIRMAÇÃO -->
+<div id="modal-exit" class="modal-overlay" style="display:none" onclick="closeModal()">
+  <div class="modal-box" onclick="event.stopPropagation()">
+    <h3>Sair do simulado?</h3>
+    <p>Seu progresso será perdido.</p>
+    <div class="modal-actions">
+      <button class="btn-secondary" onclick="closeModal()">Continuar</button>
+      <button class="btn-danger" onclick="showScreen('screen-home')">Sair</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
