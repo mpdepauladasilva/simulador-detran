@@ -2759,7 +2759,7 @@
           },
           "has_image": true,
           "image_code": "R-2",
-          "image_path": "images/placa_R-2.png",
+          "image_path": "images/placas_R-2.webp",
           "correct": "B"
         },
         {
@@ -2774,7 +2774,7 @@
           },
           "has_image": true,
           "image_code": "R-4a",
-          "image_path": "images/placa_R-4a.png",
+          "image_path": "images/placas_R-4a.png",
           "correct": "C"
         },
         {
@@ -2789,7 +2789,7 @@
           },
           "has_image": true,
           "image_code": "R-4b",
-          "image_path": "images/placa_R-4b.png",
+          "image_path": "images/placas_R-4b.png",
           "correct": "E"
         },
         {
@@ -2804,7 +2804,7 @@
           },
           "has_image": true,
           "image_code": "R-5",
-          "image_path": null,
+          "image_path": "images/placas_R-5.webp",
           "correct": "E"
         },
         {
@@ -2819,7 +2819,7 @@
           },
           "has_image": true,
           "image_code": "R-6b",
-          "image_path": "images/placa_R-6b.png",
+          "image_path": "images/placas_R-6b.png",
           "correct": "E"
         },
         {
@@ -2834,7 +2834,7 @@
           },
           "has_image": true,
           "image_code": "R-7",
-          "image_path": "images/placa_R-7.png",
+          "image_path": "images/placas_R-7.webp",
           "correct": "E"
         },
         {
@@ -2849,7 +2849,7 @@
           },
           "has_image": true,
           "image_code": "R-9",
-          "image_path": null,
+          "image_path": "images/placas_R-9.jpeg",
           "correct": "E"
         },
         {
@@ -2864,7 +2864,7 @@
           },
           "has_image": true,
           "image_code": "R-11",
-          "image_path": null,
+          "image_path": "images/placas_R-11.webp",
           "correct": "E"
         },
         {
@@ -2879,7 +2879,7 @@
           },
           "has_image": true,
           "image_code": "R-19",
-          "image_path": null,
+          "image_path": "images/placas_R-19.jpg",
           "correct": "B"
         },
         {
@@ -2894,7 +2894,7 @@
           },
           "has_image": true,
           "image_code": "R-20",
-          "image_path": null,
+          "image_path": "images/placas_R-20.png",
           "correct": "C"
         },
         {
@@ -2909,7 +2909,7 @@
           },
           "has_image": true,
           "image_code": "R-21",
-          "image_path": null,
+          "image_path": "images/placas_R-21.webp",
           "correct": "D"
         },
         {
@@ -3014,7 +3014,7 @@
           },
           "has_image": true,
           "image_code": "R-1",
-          "image_path": null,
+          "image_path": "images/placas_R-1.png",
           "correct": "C"
         },
         {
@@ -3029,7 +3029,7 @@
           },
           "has_image": true,
           "image_code": "R-3",
-          "image_path": null,
+          "image_path": "images/placas_R-3.webp",
           "correct": "E"
         },
         {
@@ -3044,7 +3044,7 @@
           },
           "has_image": true,
           "image_code": "R-6a",
-          "image_path": null,
+          "image_path": "images/placas_R-6a.webp",
           "correct": "C"
         },
         {
@@ -3059,7 +3059,7 @@
           },
           "has_image": true,
           "image_code": "R-6c",
-          "image_path": null,
+          "image_path": "images/placas_R-6c.webp",
           "correct": "E"
         },
         {
@@ -3074,7 +3074,7 @@
           },
           "has_image": true,
           "image_code": "R-8",
-          "image_path": null,
+          "image_path": "images/placas_R-8.webp",
           "correct": "A"
         },
         {
@@ -3089,7 +3089,7 @@
           },
           "has_image": true,
           "image_code": "R-14",
-          "image_path": null,
+          "image_path": "images/placas_R-14.webp",
           "correct": "B"
         },
         {
@@ -3104,7 +3104,7 @@
           },
           "has_image": true,
           "image_code": "R-15",
-          "image_path": null,
+          "image_path": "images/placas_R-15.webp",
           "correct": "C"
         },
         {
@@ -3119,7 +3119,7 @@
           },
           "has_image": true,
           "image_code": "R-16",
-          "image_path": null,
+          "image_path": "images/placas_R-16.webp",
           "correct": "B"
         },
         {
@@ -3134,7 +3134,7 @@
           },
           "has_image": true,
           "image_code": "R-17",
-          "image_path": null,
+          "image_path": "images/placas_R-17.webp",
           "correct": "D"
         },
         {
@@ -3149,7 +3149,7 @@
           },
           "has_image": true,
           "image_code": "R-23",
-          "image_path": null,
+          "image_path": "images/placas_R-23.webp",
           "correct": "C"
         },
         {
@@ -3164,7 +3164,7 @@
           },
           "has_image": true,
           "image_code": "R-24a",
-          "image_path": null,
+          "image_path": "images/placas_R-24a.png",
           "correct": "A"
         },
         {
@@ -3179,7 +3179,7 @@
           },
           "has_image": true,
           "image_code": "R-24b",
-          "image_path": null,
+          "image_path": "images/placas_R-24b.webp",
           "correct": "D"
         },
         {
@@ -3194,7 +3194,7 @@
           },
           "has_image": true,
           "image_code": "R-25a",
-          "image_path": null,
+          "image_path": "images/placas_R-25a.png",
           "correct": "A"
         }
       ]
@@ -3216,7 +3216,7 @@
           },
           "has_image": true,
           "image_code": "A-5a",
-          "image_path": null,
+          "image_path": "images/placas_A-5a.webp",
           "correct": "D"
         },
         {
@@ -3231,7 +3231,7 @@
           },
           "has_image": true,
           "image_code": "A-8",
-          "image_path": null,
+          "image_path": "images/placas_A-8.webp",
           "correct": "B"
         },
         {
@@ -3246,7 +3246,7 @@
           },
           "has_image": true,
           "image_code": "A-10a",
-          "image_path": null,
+          "image_path": "images/placas_A-10a.webp",
           "correct": "A"
         },
         {
@@ -3261,7 +3261,7 @@
           },
           "has_image": true,
           "image_code": "A-10b",
-          "image_path": null,
+          "image_path": "images/placas_A-10b.webp",
           "correct": "C"
         },
         {
@@ -3276,7 +3276,7 @@
           },
           "has_image": true,
           "image_code": "A-11a",
-          "image_path": null,
+          "image_path": "images/placas_A-11a.webp",
           "correct": "B"
         },
         {
@@ -3291,7 +3291,7 @@
           },
           "has_image": true,
           "image_code": "A-11b",
-          "image_path": null,
+          "image_path": "images/placas_A-11b.webp",
           "correct": "A"
         },
         {
@@ -3306,7 +3306,7 @@
           },
           "has_image": true,
           "image_code": "A-12",
-          "image_path": null,
+          "image_path": "images/placas_A-12.webp",
           "correct": "C"
         },
         {
@@ -3321,7 +3321,7 @@
           },
           "has_image": true,
           "image_code": "A-13a",
-          "image_path": null,
+          "image_path": "images/placas_A-13a.webp",
           "correct": "B"
         },
         {
@@ -3336,7 +3336,7 @@
           },
           "has_image": true,
           "image_code": "A-13b",
-          "image_path": null,
+          "image_path": "images/placas_A-13b.webp",
           "correct": "C"
         },
         {
@@ -3351,7 +3351,7 @@
           },
           "has_image": true,
           "image_code": "A-14",
-          "image_path": null,
+          "image_path": "images/placas_A-14.webp",
           "correct": "B"
         },
         {
@@ -3366,7 +3366,7 @@
           },
           "has_image": true,
           "image_code": "A-16",
-          "image_path": null,
+          "image_path": "images/placas_A-16.png",
           "correct": "C"
         },
         {
@@ -3381,7 +3381,7 @@
           },
           "has_image": true,
           "image_code": "A-17",
-          "image_path": null,
+          "image_path": "images/placas_A-17.webp",
           "correct": "B"
         },
         {
@@ -3396,7 +3396,7 @@
           },
           "has_image": true,
           "image_code": "A-18",
-          "image_path": null,
+          "image_path": "images/placas_A-18.webp",
           "correct": "E"
         },
         {
@@ -3411,7 +3411,7 @@
           },
           "has_image": true,
           "image_code": "A-21a",
-          "image_path": null,
+          "image_path": "images/placas_A-21a.png",
           "correct": "C"
         },
         {
@@ -3426,7 +3426,7 @@
           },
           "has_image": true,
           "image_code": "A-21b",
-          "image_path": null,
+          "image_path": "images/placas_A-21b.png",
           "correct": "E"
         },
         {
@@ -3441,7 +3441,7 @@
           },
           "has_image": true,
           "image_code": "A-21c",
-          "image_path": null,
+          "image_path": "images/placas_A-21c.webp",
           "correct": "B"
         },
         {
@@ -3456,7 +3456,7 @@
           },
           "has_image": true,
           "image_code": "A-22",
-          "image_path": null,
+          "image_path": "images/placas_A-22.png",
           "correct": "C"
         },
         {
@@ -3471,7 +3471,7 @@
           },
           "has_image": true,
           "image_code": "A-23",
-          "image_path": null,
+          "image_path": "images/placas_A-23.webp",
           "correct": "D"
         },
         {
@@ -3486,7 +3486,7 @@
           },
           "has_image": true,
           "image_code": "A-25",
-          "image_path": null,
+          "image_path": "images/placas_A-25.webp",
           "correct": "C"
         },
         {
@@ -3501,7 +3501,7 @@
           },
           "has_image": true,
           "image_code": "A-27",
-          "image_path": null,
+          "image_path": "images/placas_A-27.webp",
           "correct": "C"
         },
         {
@@ -3516,7 +3516,7 @@
           },
           "has_image": true,
           "image_code": "A-29",
-          "image_path": null,
+          "image_path": "images/placas_A-29.webp",
           "correct": "B"
         },
         {
@@ -3531,7 +3531,7 @@
           },
           "has_image": true,
           "image_code": "A-30",
-          "image_path": null,
+          "image_path": "images/placas_A-30.webp",
           "correct": "C"
         },
         {
@@ -3546,7 +3546,7 @@
           },
           "has_image": true,
           "image_code": "A-31",
-          "image_path": null,
+          "image_path": "images/placas_A-31.webp",
           "correct": "D"
         },
         {
@@ -3561,7 +3561,7 @@
           },
           "has_image": true,
           "image_code": "A-34",
-          "image_path": null,
+          "image_path": "images/placas_A-34.webp",
           "correct": "C"
         },
         {
@@ -3576,7 +3576,7 @@
           },
           "has_image": true,
           "image_code": "A-37",
-          "image_path": null,
+          "image_path": "images/placas_A-37.webp",
           "correct": "D"
         },
         {
@@ -3591,7 +3591,7 @@
           },
           "has_image": true,
           "image_code": "A-38",
-          "image_path": null,
+          "image_path": "images/placas_A-38.webp",
           "correct": "A"
         },
         {
@@ -3606,7 +3606,7 @@
           },
           "has_image": true,
           "image_code": "A-40",
-          "image_path": null,
+          "image_path": "images/placas_A-40.png",
           "correct": "A"
         },
         {
@@ -3621,7 +3621,7 @@
           },
           "has_image": true,
           "image_code": "A-41",
-          "image_path": null,
+          "image_path": "images/placas_A-41.png",
           "correct": "E"
         },
         {
@@ -3636,7 +3636,7 @@
           },
           "has_image": true,
           "image_code": "A-43",
-          "image_path": null,
+          "image_path": "images/placas_A-43.webp",
           "correct": "A"
         },
         {
@@ -3733,7 +3733,7 @@
           },
           "has_image": true,
           "image_code": "A-1a",
-          "image_path": null,
+          "image_path": "images/placas_A-1a.jpg",
           "correct": "E"
         },
         {
@@ -3748,7 +3748,7 @@
           },
           "has_image": true,
           "image_code": "A-1b",
-          "image_path": null,
+          "image_path": "images/placas_A-1b.webp",
           "correct": "E"
         },
         {
@@ -3763,7 +3763,7 @@
           },
           "has_image": true,
           "image_code": "A-2a",
-          "image_path": null,
+          "image_path": "images/placas_A-2a.webp",
           "correct": "D"
         },
         {
@@ -3778,7 +3778,7 @@
           },
           "has_image": true,
           "image_code": "A-3a",
-          "image_path": null,
+          "image_path": "images/placas_A-3a.png",
           "correct": "A"
         },
         {
@@ -3793,7 +3793,7 @@
           },
           "has_image": true,
           "image_code": "A-3b",
-          "image_path": null,
+          "image_path": "images/placas_A-3b.webp",
           "correct": "E"
         },
         {
@@ -3808,7 +3808,7 @@
           },
           "has_image": true,
           "image_code": "A-4a",
-          "image_path": null,
+          "image_path": "images/placas_A-4a.png",
           "correct": "B"
         },
         {
@@ -3823,7 +3823,7 @@
           },
           "has_image": true,
           "image_code": "A-4b",
-          "image_path": null,
+          "image_path": "images/placas_A-4b.png",
           "correct": "A"
         },
         {
@@ -3838,7 +3838,7 @@
           },
           "has_image": true,
           "image_code": "A-6",
-          "image_path": null,
+          "image_path": "images/placas_A-6.webp",
           "correct": "E"
         },
         {
@@ -3853,7 +3853,7 @@
           },
           "has_image": true,
           "image_code": "A-7a",
-          "image_path": null,
+          "image_path": "images/placas_A-7a.webp",
           "correct": "C"
         },
         {
@@ -3868,7 +3868,7 @@
           },
           "has_image": true,
           "image_code": "A-7b",
-          "image_path": null,
+          "image_path": "images/placas_A-7b.png",
           "correct": "D"
         },
         {
@@ -3883,7 +3883,7 @@
           },
           "has_image": true,
           "image_code": "A-9",
-          "image_path": null,
+          "image_path": "images/placas_A-9.jpeg",
           "correct": "E"
         },
         {
@@ -3898,7 +3898,7 @@
           },
           "has_image": true,
           "image_code": "A-15",
-          "image_path": null,
+          "image_path": "images/placas_A-15.webp",
           "correct": "E"
         },
         {
@@ -3913,7 +3913,7 @@
           },
           "has_image": true,
           "image_code": "A-19",
-          "image_path": null,
+          "image_path": "images/placas_A-19.png",
           "correct": "C"
         },
         {
@@ -3928,7 +3928,7 @@
           },
           "has_image": true,
           "image_code": "A-20a",
-          "image_path": null,
+          "image_path": "images/placas_A-20a.png",
           "correct": "B"
         },
         {
@@ -3943,7 +3943,7 @@
           },
           "has_image": true,
           "image_code": "A-20b",
-          "image_path": null,
+          "image_path": "images/placas_A-20b.png",
           "correct": "C"
         },
         {
@@ -3958,7 +3958,7 @@
           },
           "has_image": true,
           "image_code": "A-24",
-          "image_path": null,
+          "image_path": "images/placas_A-24.png",
           "correct": "D"
         },
         {
@@ -3973,7 +3973,7 @@
           },
           "has_image": true,
           "image_code": "A-26a",
-          "image_path": null,
+          "image_path": "images/placas_A-26a.png",
           "correct": "B"
         },
         {
@@ -3988,7 +3988,7 @@
           },
           "has_image": true,
           "image_code": "A-26b",
-          "image_path": null,
+          "image_path": "images/placas_A-26b.png",
           "correct": "B"
         },
         {
@@ -4003,7 +4003,7 @@
           },
           "has_image": true,
           "image_code": "A-28",
-          "image_path": null,
+          "image_path": "images/placas_A-28.png",
           "correct": "D"
         },
         {
@@ -4018,7 +4018,7 @@
           },
           "has_image": true,
           "image_code": "A-32a",
-          "image_path": null,
+          "image_path": "images/placas_A-32a.png",
           "correct": "B"
         },
         {
@@ -4033,7 +4033,7 @@
           },
           "has_image": true,
           "image_code": "A-33a",
-          "image_path": null,
+          "image_path": "images/placas_A-33a.png",
           "correct": "E"
         },
         {
@@ -4048,7 +4048,7 @@
           },
           "has_image": true,
           "image_code": "A-35",
-          "image_path": null,
+          "image_path": "images/placas_A-35.png",
           "correct": "D"
         },
         {
@@ -4063,7 +4063,7 @@
           },
           "has_image": true,
           "image_code": "A-39",
-          "image_path": null,
+          "image_path": "images/placas_A-39.png",
           "correct": "E"
         },
         {
@@ -4078,7 +4078,7 @@
           },
           "has_image": true,
           "image_code": "A-42a",
-          "image_path": null,
+          "image_path": "images/placas_A-42a.png",
           "correct": "D"
         },
         {
@@ -4093,7 +4093,7 @@
           },
           "has_image": true,
           "image_code": "A-42b",
-          "image_path": null,
+          "image_path": "images/placas_A-42b.png",
           "correct": "D"
         },
         {
@@ -4108,7 +4108,7 @@
           },
           "has_image": true,
           "image_code": "A-44",
-          "image_path": null,
+          "image_path": "images/placas_A-44.png",
           "correct": "A"
         }
       ]
@@ -5612,7 +5612,7 @@
           },
           "has_image": true,
           "image_code": "A-32b",
-          "image_path": null,
+          "image_path": "images/placas_A-32b.png",
           "correct": "E"
         },
         {
@@ -5627,7 +5627,7 @@
           },
           "has_image": true,
           "image_code": "A-33b",
-          "image_path": null,
+          "image_path": "images/placas_A-33b.png",
           "correct": "D"
         },
         {
@@ -5642,7 +5642,7 @@
           },
           "has_image": true,
           "image_code": "A-42c",
-          "image_path": null,
+          "image_path": "images/placas_A-42c.png",
           "correct": "B"
         },
         {
@@ -5657,7 +5657,7 @@
           },
           "has_image": true,
           "image_code": "A-36",
-          "image_path": null,
+          "image_path": "images/placas_A-36.png",
           "correct": "B"
         },
         {
@@ -5687,7 +5687,7 @@
           },
           "has_image": true,
           "image_code": "A-2b",
-          "image_path": null,
+          "image_path": "images/placas_A-2b.png",
           "correct": "E"
         },
         {
@@ -5717,7 +5717,7 @@
           },
           "has_image": true,
           "image_code": "A-5b",
-          "image_path": null,
+          "image_path": "images/placas_A-5b.png",
           "correct": "E"
         },
         {
@@ -5732,7 +5732,7 @@
           },
           "has_image": true,
           "image_code": "A-27",
-          "image_path": null,
+          "image_path": "images/placas_A-27.webp",
           "correct": "C"
         },
         {
@@ -5747,7 +5747,7 @@
           },
           "has_image": true,
           "image_code": "A-43",
-          "image_path": null,
+          "image_path": "images/placas_A-43.webp",
           "correct": "A"
         },
         {
@@ -5762,7 +5762,7 @@
           },
           "has_image": true,
           "image_code": "A-26a",
-          "image_path": null,
+          "image_path": "images/placas_A-26a.png",
           "correct": "B"
         },
         {
@@ -5777,7 +5777,7 @@
           },
           "has_image": true,
           "image_code": "A-42a",
-          "image_path": null,
+          "image_path": "images/placas_A-42a.png",
           "correct": "D"
         },
         {
@@ -5792,7 +5792,7 @@
           },
           "has_image": true,
           "image_code": "A-42b",
-          "image_path": null,
+          "image_path": "images/placas_A-42b.png",
           "correct": "D"
         },
         {
@@ -5807,7 +5807,7 @@
           },
           "has_image": true,
           "image_code": "A-2b",
-          "image_path": null,
+          "image_path": "images/placas_A-2b.png",
           "correct": "E"
         },
         {
@@ -5822,7 +5822,7 @@
           },
           "has_image": true,
           "image_code": "A-21b",
-          "image_path": null,
+          "image_path": "images/placas_A-21b.png",
           "correct": "E"
         },
         {
@@ -5837,7 +5837,7 @@
           },
           "has_image": true,
           "image_code": "A-29",
-          "image_path": null,
+          "image_path": "images/placas_A-29.webp",
           "correct": "B"
         }
       ]
@@ -8016,7 +8016,7 @@
           },
           "has_image": true,
           "image_code": "R-25b",
-          "image_path": null,
+          "image_path": "images/placas_R-25b.png",
           "correct": "D"
         },
         {
@@ -8046,7 +8046,7 @@
           },
           "has_image": true,
           "image_code": "R-25c",
-          "image_path": null,
+          "image_path": "images/placas_R-25c.png",
           "correct": "A"
         },
         {
@@ -8076,7 +8076,7 @@
           },
           "has_image": true,
           "image_code": "R-26",
-          "image_path": null,
+          "image_path": "images/placas_R-26.png",
           "correct": "D"
         },
         {
@@ -8106,7 +8106,7 @@
           },
           "has_image": true,
           "image_code": "R-27",
-          "image_path": null,
+          "image_path": "images/placas_R-27.png",
           "correct": "A"
         },
         {
@@ -8136,7 +8136,7 @@
           },
           "has_image": true,
           "image_code": "R-28",
-          "image_path": null,
+          "image_path": "images/placas_R-28.png",
           "correct": "C"
         },
         {
@@ -8166,7 +8166,7 @@
           },
           "has_image": true,
           "image_code": "R-29",
-          "image_path": null,
+          "image_path": "images/placas_R-29.png",
           "correct": "A"
         },
         {
@@ -8181,7 +8181,7 @@
           },
           "has_image": true,
           "image_code": "R-30",
-          "image_path": null,
+          "image_path": "images/placas_R-30.png",
           "correct": "A"
         },
         {
@@ -8196,7 +8196,7 @@
           },
           "has_image": true,
           "image_code": "R-31",
-          "image_path": null,
+          "image_path": "images/placas_R-31.png",
           "correct": "D"
         },
         {
@@ -8226,7 +8226,7 @@
           },
           "has_image": true,
           "image_code": "R-32",
-          "image_path": null,
+          "image_path": "images/placas_R-32.png",
           "correct": "A"
         },
         {
@@ -8241,7 +8241,7 @@
           },
           "has_image": true,
           "image_code": "R-33",
-          "image_path": null,
+          "image_path": "images/placas_R-33.png",
           "correct": "B"
         },
         {
@@ -8256,7 +8256,7 @@
           },
           "has_image": true,
           "image_code": "R-34",
-          "image_path": null,
+          "image_path": "images/placas_R-34.png",
           "correct": "C"
         },
         {
@@ -8376,7 +8376,7 @@
           },
           "has_image": true,
           "image_code": "R-6b",
-          "image_path": null,
+          "image_path": "images/placas_R-6b.png",
           "correct": "D"
         },
         {
@@ -8436,7 +8436,7 @@
           },
           "has_image": true,
           "image_code": "R-2",
-          "image_path": null,
+          "image_path": "images/placas_R-2.webp",
           "correct": "E"
         }
       ]
@@ -10083,7 +10083,7 @@
           },
           "has_image": true,
           "image_code": "A-42c",
-          "image_path": null,
+          "image_path": "images/placas_A-42c.png",
           "correct": "B"
         },
         {
@@ -10098,7 +10098,7 @@
           },
           "has_image": true,
           "image_code": "A-18",
-          "image_path": null,
+          "image_path": "images/placas_A-18.webp",
           "correct": "E"
         },
         {
@@ -10143,7 +10143,7 @@
           },
           "has_image": true,
           "image_code": "R-25b",
-          "image_path": null,
+          "image_path": "images/placas_R-25b.png",
           "correct": "D"
         },
         {
@@ -10158,7 +10158,7 @@
           },
           "has_image": true,
           "image_code": "R-1",
-          "image_path": null,
+          "image_path": "images/placas_R-1.png",
           "correct": "C"
         },
         {
@@ -10188,7 +10188,7 @@
           },
           "has_image": true,
           "image_code": "A-34",
-          "image_path": null,
+          "image_path": "images/placas_A-34.webp",
           "correct": "C"
         },
         {
@@ -10539,7 +10539,7 @@
           },
           "has_image": true,
           "image_code": "A-42b",
-          "image_path": null,
+          "image_path": "images/placas_A-42b.png",
           "correct": "D"
         },
         {
@@ -10584,7 +10584,7 @@
           },
           "has_image": true,
           "image_code": "A-10b",
-          "image_path": null,
+          "image_path": "images/placas_A-10b.webp",
           "correct": "C"
         },
         {
@@ -10629,7 +10629,7 @@
           },
           "has_image": true,
           "image_code": "A-10a",
-          "image_path": null,
+          "image_path": "images/placas_A-10a.webp",
           "correct": "A"
         },
         {
@@ -10644,7 +10644,7 @@
           },
           "has_image": true,
           "image_code": "R-6c",
-          "image_path": null,
+          "image_path": "images/placas_R-6c.webp",
           "correct": "E"
         },
         {
@@ -11011,7 +11011,7 @@
           },
           "has_image": true,
           "image_code": "A-4a",
-          "image_path": null,
+          "image_path": "images/placas_A-4a.png",
           "correct": "B"
         },
         {
@@ -11056,7 +11056,7 @@
           },
           "has_image": true,
           "image_code": "R-23",
-          "image_path": null,
+          "image_path": "images/placas_R-23.webp",
           "correct": "C"
         },
         {
@@ -11101,7 +11101,7 @@
           },
           "has_image": true,
           "image_code": "A-10a",
-          "image_path": null,
+          "image_path": "images/placas_A-10a.webp",
           "correct": "A"
         },
         {
@@ -11513,7 +11513,7 @@
           },
           "has_image": true,
           "image_code": "A-35",
-          "image_path": null,
+          "image_path": "images/placas_A-35.png",
           "correct": "D"
         },
         {
@@ -11543,7 +11543,7 @@
           },
           "has_image": true,
           "image_code": "R-17",
-          "image_path": null,
+          "image_path": "images/placas_R-17.webp",
           "correct": "D"
         },
         {
@@ -11588,7 +11588,7 @@
           },
           "has_image": true,
           "image_code": "A-37",
-          "image_path": null,
+          "image_path": "images/placas_A-37.webp",
           "correct": "D"
         },
         {
@@ -11925,7 +11925,7 @@
           },
           "has_image": true,
           "image_code": "R-2",
-          "image_path": null,
+          "image_path": "images/placas_R-2.webp",
           "correct": "E"
         },
         {
@@ -12000,7 +12000,7 @@
           },
           "has_image": true,
           "image_code": "A-1a",
-          "image_path": null,
+          "image_path": "images/placas_A-1a.jpg",
           "correct": "E"
         },
         {
@@ -12030,7 +12030,7 @@
           },
           "has_image": true,
           "image_code": "R-26",
-          "image_path": null,
+          "image_path": "images/placas_R-26.png",
           "correct": "D"
         },
         {
@@ -12427,7 +12427,7 @@
           },
           "has_image": true,
           "image_code": "A-21c",
-          "image_path": null,
+          "image_path": "images/placas_A-21c.webp",
           "correct": "B"
         },
         {
@@ -12869,7 +12869,7 @@
           },
           "has_image": true,
           "image_code": "R-16",
-          "image_path": null,
+          "image_path": "images/placas_R-16.webp",
           "correct": "B"
         },
         {
@@ -12899,7 +12899,7 @@
           },
           "has_image": true,
           "image_code": "A-32b",
-          "image_path": null,
+          "image_path": "images/placas_A-32b.png",
           "correct": "E"
         },
         {
@@ -12929,7 +12929,7 @@
           },
           "has_image": true,
           "image_code": "R-6b",
-          "image_path": null,
+          "image_path": "images/placas_R-6b.png",
           "correct": "E"
         },
         {
@@ -13401,7 +13401,7 @@
           },
           "has_image": true,
           "image_code": "R-28",
-          "image_path": null,
+          "image_path": "images/placas_R-28.png",
           "correct": "C"
         },
         {
@@ -13798,7 +13798,7 @@
           },
           "has_image": true,
           "image_code": "A-26a",
-          "image_path": null,
+          "image_path": "images/placas_A-26a.png",
           "correct": "B"
         },
         {
@@ -13813,7 +13813,7 @@
           },
           "has_image": true,
           "image_code": "R-26",
-          "image_path": null,
+          "image_path": "images/placas_R-26.png",
           "correct": "D"
         },
         {
@@ -13843,7 +13843,7 @@
           },
           "has_image": true,
           "image_code": "A-8",
-          "image_path": null,
+          "image_path": "images/placas_A-8.webp",
           "correct": "B"
         },
         {
@@ -13858,7 +13858,7 @@
           },
           "has_image": true,
           "image_code": "R-25c",
-          "image_path": null,
+          "image_path": "images/placas_R-25c.png",
           "correct": "A"
         },
         {
@@ -14255,7 +14255,7 @@
           },
           "has_image": true,
           "image_code": "A-25",
-          "image_path": null,
+          "image_path": "images/placas_A-25.webp",
           "correct": "C"
         },
         {
@@ -14682,7 +14682,7 @@
           },
           "has_image": true,
           "image_code": "R-25a",
-          "image_path": null,
+          "image_path": "images/placas_R-25a.png",
           "correct": "A"
         },
         {
@@ -14697,7 +14697,7 @@
           },
           "has_image": true,
           "image_code": "A-13b",
-          "image_path": null,
+          "image_path": "images/placas_A-13b.webp",
           "correct": "C"
         },
         {
@@ -14712,7 +14712,7 @@
           },
           "has_image": true,
           "image_code": "R-20",
-          "image_path": null,
+          "image_path": "images/placas_R-20.png",
           "correct": "C"
         },
         {
@@ -14787,7 +14787,7 @@
           },
           "has_image": true,
           "image_code": "A-28",
-          "image_path": null,
+          "image_path": "images/placas_A-28.png",
           "correct": "D"
         },
         {
@@ -15109,7 +15109,7 @@
           },
           "has_image": true,
           "image_code": "A-41",
-          "image_path": null,
+          "image_path": "images/placas_A-41.png",
           "correct": "E"
         },
         {
@@ -15124,7 +15124,7 @@
           },
           "has_image": true,
           "image_code": "A-38",
-          "image_path": null,
+          "image_path": "images/placas_A-38.webp",
           "correct": "A"
         },
         {
@@ -15244,7 +15244,7 @@
           },
           "has_image": true,
           "image_code": "R-20",
-          "image_path": null,
+          "image_path": "images/placas_R-20.png",
           "correct": "C"
         },
         {
@@ -15581,7 +15581,7 @@
           },
           "has_image": true,
           "image_code": "A-36",
-          "image_path": null,
+          "image_path": "images/placas_A-36.png",
           "correct": "B"
         },
         {
@@ -15611,7 +15611,7 @@
           },
           "has_image": true,
           "image_code": "A-24",
-          "image_path": null,
+          "image_path": "images/placas_A-24.png",
           "correct": "D"
         },
         {
@@ -15641,7 +15641,7 @@
           },
           "has_image": true,
           "image_code": "A-40",
-          "image_path": null,
+          "image_path": "images/placas_A-40.png",
           "correct": "A"
         },
         {
@@ -15701,7 +15701,7 @@
           },
           "has_image": true,
           "image_code": "A-20b",
-          "image_path": null,
+          "image_path": "images/placas_A-20b.png",
           "correct": "C"
         },
         {
@@ -16053,7 +16053,7 @@
           },
           "has_image": true,
           "image_code": "A-1a",
-          "image_path": null,
+          "image_path": "images/placas_A-1a.jpg",
           "correct": "E"
         },
         {
@@ -16098,7 +16098,7 @@
           },
           "has_image": true,
           "image_code": "A-5a",
-          "image_path": null,
+          "image_path": "images/placas_A-5a.webp",
           "correct": "D"
         },
         {
@@ -16128,7 +16128,7 @@
           },
           "has_image": true,
           "image_code": "R-5",
-          "image_path": null,
+          "image_path": "images/placas_R-5.webp",
           "correct": "E"
         },
         {
@@ -16510,7 +16510,7 @@
           },
           "has_image": true,
           "image_code": "R-17",
-          "image_path": null,
+          "image_path": "images/placas_R-17.webp",
           "correct": "D"
         },
         {
@@ -16555,7 +16555,7 @@
           },
           "has_image": true,
           "image_code": "A-20a",
-          "image_path": null,
+          "image_path": "images/placas_A-20a.png",
           "correct": "B"
         },
         {
@@ -16570,7 +16570,7 @@
           },
           "has_image": true,
           "image_code": "R-2",
-          "image_path": null,
+          "image_path": "images/placas_R-2.webp",
           "correct": "B"
         },
         {
@@ -16600,7 +16600,7 @@
           },
           "has_image": true,
           "image_code": "A-15",
-          "image_path": null,
+          "image_path": "images/placas_A-15.webp",
           "correct": "E"
         },
         {
@@ -17012,7 +17012,7 @@
           },
           "has_image": true,
           "image_code": "R-20",
-          "image_path": null,
+          "image_path": "images/placas_R-20.png",
           "correct": "C"
         },
         {
@@ -17042,7 +17042,7 @@
           },
           "has_image": true,
           "image_code": "A-42b",
-          "image_path": null,
+          "image_path": "images/placas_A-42b.png",
           "correct": "D"
         },
         {
@@ -17424,7 +17424,7 @@
           },
           "has_image": true,
           "image_code": "A-10a",
-          "image_path": null,
+          "image_path": "images/placas_A-10a.webp",
           "correct": "A"
         },
         {
@@ -17454,7 +17454,7 @@
           },
           "has_image": true,
           "image_code": "A-21b",
-          "image_path": null,
+          "image_path": "images/placas_A-21b.png",
           "correct": "E"
         },
         {
@@ -17881,7 +17881,7 @@
           },
           "has_image": true,
           "image_code": "R-21",
-          "image_path": null,
+          "image_path": "images/placas_R-21.webp",
           "correct": "D"
         },
         {
@@ -18308,7 +18308,7 @@
           },
           "has_image": true,
           "image_code": "A-29",
-          "image_path": null,
+          "image_path": "images/placas_A-29.webp",
           "correct": "B"
         },
         {
@@ -18383,7 +18383,7 @@
           },
           "has_image": true,
           "image_code": "A-43",
-          "image_path": null,
+          "image_path": "images/placas_A-43.webp",
           "correct": "A"
         },
         {
@@ -18413,7 +18413,7 @@
           },
           "has_image": true,
           "image_code": "A-13a",
-          "image_path": null,
+          "image_path": "images/placas_A-13a.webp",
           "correct": "B"
         },
         {
@@ -18765,7 +18765,7 @@
           },
           "has_image": true,
           "image_code": "R-4b",
-          "image_path": null,
+          "image_path": "images/placas_R-4b.png",
           "correct": "E"
         },
         {
@@ -18840,7 +18840,7 @@
           },
           "has_image": true,
           "image_code": "A-8",
-          "image_path": null,
+          "image_path": "images/placas_A-8.webp",
           "correct": "B"
         },
         {
@@ -19252,7 +19252,7 @@
           },
           "has_image": true,
           "image_code": "A-16",
-          "image_path": null,
+          "image_path": "images/placas_A-16.png",
           "correct": "C"
         },
         {
@@ -19267,7 +19267,7 @@
           },
           "has_image": true,
           "image_code": "A-21b",
-          "image_path": null,
+          "image_path": "images/placas_A-21b.png",
           "correct": "E"
         },
         {
@@ -20166,7 +20166,7 @@
           },
           "has_image": true,
           "image_code": "A-19",
-          "image_path": null,
+          "image_path": "images/placas_A-19.png",
           "correct": "C"
         },
         {
@@ -20271,7 +20271,7 @@
           },
           "has_image": true,
           "image_code": "A-32b",
-          "image_path": null,
+          "image_path": "images/placas_A-32b.png",
           "correct": "E"
         },
         {
@@ -20623,7 +20623,7 @@
           },
           "has_image": true,
           "image_code": "A-32b",
-          "image_path": null,
+          "image_path": "images/placas_A-32b.png",
           "correct": "E"
         },
         {
@@ -20638,7 +20638,7 @@
           },
           "has_image": true,
           "image_code": "A-27",
-          "image_path": null,
+          "image_path": "images/placas_A-27.webp",
           "correct": "C"
         },
         {
@@ -20653,7 +20653,7 @@
           },
           "has_image": true,
           "image_code": "R-14",
-          "image_path": null,
+          "image_path": "images/placas_R-14.webp",
           "correct": "B"
         },
         {
@@ -20683,7 +20683,7 @@
           },
           "has_image": true,
           "image_code": "A-5b",
-          "image_path": null,
+          "image_path": "images/placas_A-5b.png",
           "correct": "E"
         },
         {
@@ -20698,7 +20698,7 @@
           },
           "has_image": true,
           "image_code": "A-42a",
-          "image_path": null,
+          "image_path": "images/placas_A-42a.png",
           "correct": "D"
         },
         {
@@ -20728,7 +20728,7 @@
           },
           "has_image": true,
           "image_code": "A-24",
-          "image_path": null,
+          "image_path": "images/placas_A-24.png",
           "correct": "D"
         },
         {
@@ -21050,7 +21050,7 @@
           },
           "has_image": true,
           "image_code": "R-6b",
-          "image_path": null,
+          "image_path": "images/placas_R-6b.png",
           "correct": "D"
         },
         {
@@ -21065,7 +21065,7 @@
           },
           "has_image": true,
           "image_code": "A-42a",
-          "image_path": null,
+          "image_path": "images/placas_A-42a.png",
           "correct": "D"
         },
         {
@@ -21095,7 +21095,7 @@
           },
           "has_image": true,
           "image_code": "R-23",
-          "image_path": null,
+          "image_path": "images/placas_R-23.webp",
           "correct": "C"
         },
         {
@@ -21155,7 +21155,7 @@
           },
           "has_image": true,
           "image_code": "R-24b",
-          "image_path": null,
+          "image_path": "images/placas_R-24b.webp",
           "correct": "D"
         },
         {
@@ -21185,7 +21185,7 @@
           },
           "has_image": true,
           "image_code": "A-29",
-          "image_path": null,
+          "image_path": "images/placas_A-29.webp",
           "correct": "B"
         },
         {
@@ -21507,7 +21507,7 @@
           },
           "has_image": true,
           "image_code": "A-21a",
-          "image_path": null,
+          "image_path": "images/placas_A-21a.png",
           "correct": "C"
         },
         {
@@ -21582,7 +21582,7 @@
           },
           "has_image": true,
           "image_code": "A-7b",
-          "image_path": null,
+          "image_path": "images/placas_A-7b.png",
           "correct": "D"
         },
         {
@@ -21627,7 +21627,7 @@
           },
           "has_image": true,
           "image_code": "A-32a",
-          "image_path": null,
+          "image_path": "images/placas_A-32a.png",
           "correct": "B"
         },
         {
@@ -21642,7 +21642,7 @@
           },
           "has_image": true,
           "image_code": "R-30",
-          "image_path": null,
+          "image_path": "images/placas_R-30.png",
           "correct": "A"
         },
         {
@@ -22421,7 +22421,7 @@
           },
           "has_image": true,
           "image_code": "R-19",
-          "image_path": null,
+          "image_path": "images/placas_R-19.jpg",
           "correct": "B"
         },
         {
@@ -22451,7 +22451,7 @@
           },
           "has_image": true,
           "image_code": "R-30",
-          "image_path": null,
+          "image_path": "images/placas_R-30.png",
           "correct": "A"
         },
         {
@@ -22511,7 +22511,7 @@
           },
           "has_image": true,
           "image_code": "A-23",
-          "image_path": null,
+          "image_path": "images/placas_A-23.webp",
           "correct": "D"
         },
         {
@@ -22541,7 +22541,7 @@
           },
           "has_image": true,
           "image_code": "A-5a",
-          "image_path": null,
+          "image_path": "images/placas_A-5a.webp",
           "correct": "D"
         },
         {
@@ -22878,7 +22878,7 @@
           },
           "has_image": true,
           "image_code": "R-19",
-          "image_path": null,
+          "image_path": "images/placas_R-19.jpg",
           "correct": "B"
         },
         {
@@ -22893,7 +22893,7 @@
           },
           "has_image": true,
           "image_code": "R-23",
-          "image_path": null,
+          "image_path": "images/placas_R-23.webp",
           "correct": "C"
         },
         {
@@ -23350,7 +23350,7 @@
           },
           "has_image": true,
           "image_code": "R-7",
-          "image_path": null,
+          "image_path": "images/placas_R-7.webp",
           "correct": "E"
         },
         {
@@ -23395,7 +23395,7 @@
           },
           "has_image": true,
           "image_code": "A-36",
-          "image_path": null,
+          "image_path": "images/placas_A-36.png",
           "correct": "B"
         },
         {
@@ -23455,7 +23455,7 @@
           },
           "has_image": true,
           "image_code": "A-33b",
-          "image_path": null,
+          "image_path": "images/placas_A-33b.png",
           "correct": "D"
         },
         {
@@ -23470,7 +23470,7 @@
           },
           "has_image": true,
           "image_code": "R-24a",
-          "image_path": null,
+          "image_path": "images/placas_R-24a.png",
           "correct": "A"
         },
         {
