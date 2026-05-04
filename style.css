@@ -227,6 +227,8 @@ body {
   text-align: center;
 }
 .question-image-wrap img {
+  display: block;
+  margin: 0 auto;
   max-width: 280px;
   max-height: 200px;
   border-radius: 12px;
