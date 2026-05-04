@@ -1,30 +1,78 @@
-Licença de Uso Não Comercial
-Copyright (c) 2025 Marcelo P. de Paula da Silva
+LICENÇA DE USO RESTRITO — NÃO COMERCIAL
+Copyright (c) 2025 Mateus de Paula da Silva
+Todos os direitos reservados.
 
-É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
-deste software e dos arquivos de documentação associados (o "Software"), para
-utilizar o Software sem restrições para fins estritamente pessoais, educacionais
-ou de pesquisa, incluindo, sem limitação, os direitos de usar, copiar, modificar
-e distribuir cópias do Software, sujeito às seguintes condições:
+Este software, incluindo seu código-fonte, arquivos de dados, imagens, estilos
+e documentação (coletivamente, o "Software"), é protegido por direitos autorais
+nos termos da Lei nº 9.610/1998 (Lei de Direitos Autorais do Brasil) e tratados
+internacionais de propriedade intelectual.
 
-1. USO NÃO COMERCIAL
-   É expressamente proibido o uso deste Software, no todo ou em parte, para
-   quaisquer fins comerciais, incluindo mas não se limitando a: venda, licença
-   paga, incorporação em produtos ou serviços comerciais, uso em plataformas
-   que gerem receita direta ou indireta, ou prestação de serviços remunerados
-   com base neste Software.
+──────────────────────────────────────────────────────────────────────────────
+1. PERMISSÕES
+──────────────────────────────────────────────────────────────────────────────
+É concedida permissão limitada, não exclusiva e intransferível para:
 
-2. ATRIBUIÇÃO
-   Toda cópia ou redistribuição do Software deve manter este aviso de copyright
-   e esta licença na íntegra, e dar crédito ao autor original.
+  a) Usar o Software exclusivamente para fins pessoais, educacionais ou
+     de pesquisa acadêmica, sem qualquer geração de receita direta ou indireta;
+  b) Visualizar e estudar o código-fonte para fins de aprendizado;
+  c) Redistribuir cópias inalteradas do Software, desde que esta licença
+     seja mantida integralmente e a atribuição ao autor seja preservada.
 
+──────────────────────────────────────────────────────────────────────────────
+2. RESTRIÇÕES — USO COMERCIAL EXPRESSAMENTE PROIBIDO
+──────────────────────────────────────────────────────────────────────────────
+É estritamente proibido, sem autorização prévia e por escrito do autor:
+
+  a) Usar o Software, no todo ou em parte, em qualquer atividade comercial,
+     incluindo mas não se limitando a: venda, licenciamento pago, assinatura,
+     publicidade ou monetização de qualquer natureza;
+  b) Incorporar o Software ou partes dele em produtos, serviços ou plataformas
+     que gerem receita direta ou indireta;
+  c) Prestar serviços remunerados utilizando este Software como base;
+  d) Sublicenciar, vender, alugar ou transferir direitos sobre o Software
+     a terceiros;
+  e) Remover, alterar ou ocultar avisos de copyright, atribuição ou esta
+     licença em qualquer cópia ou versão modificada do Software;
+  f) Usar o nome, marca ou identidade do autor para promover produtos ou
+     serviços derivados sem autorização expressa.
+
+──────────────────────────────────────────────────────────────────────────────
 3. MODIFICAÇÕES
-   Modificações são permitidas apenas para uso pessoal ou educacional, e devem
-   ser distribuídas sob os mesmos termos desta licença.
+──────────────────────────────────────────────────────────────────────────────
+Modificações são permitidas apenas para uso pessoal ou educacional. Qualquer
+versão modificada deve:
 
-4. SEM GARANTIAS
-   O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE
-   QUALQUER TIPO, EXPRESSA OU IMPLÍCITA. O AUTOR NÃO SE RESPONSABILIZA POR
-   QUAISQUER DANOS DECORRENTES DO USO DESTE SOFTWARE.
+  a) Identificar claramente as alterações realizadas;
+  b) Manter este aviso de copyright e esta licença na íntegra;
+  c) Ser distribuída exclusivamente sob os mesmos termos desta licença;
+  d) Não ser distribuída de forma que sugira endosso do autor original.
 
-Para solicitar autorização de uso comercial, entre em contato com o autor.
+──────────────────────────────────────────────────────────────────────────────
+4. AUSÊNCIA DE GARANTIAS E LIMITAÇÃO DE RESPONSABILIDADE
+──────────────────────────────────────────────────────────────────────────────
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE
+QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS
+GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO.
+EM NENHUMA HIPÓTESE O AUTOR SERÁ RESPONSÁVEL POR QUALQUER DANO DIRETO,
+INDIRETO, INCIDENTAL, ESPECIAL OU CONSEQUENTE DECORRENTE DO USO OU DA
+INCAPACIDADE DE USO DESTE SOFTWARE.
+
+──────────────────────────────────────────────────────────────────────────────
+5. VIOLAÇÃO E PENALIDADES
+──────────────────────────────────────────────────────────────────────────────
+O descumprimento de qualquer cláusula desta licença:
+
+  a) Extingue automaticamente e de imediato todos os direitos concedidos
+     por esta licença ao infrator;
+  b) Sujeita o infrator às penalidades civis e criminais previstas na
+     Lei nº 9.610/1998, incluindo indenização por danos materiais e morais;
+  c) Pode resultar em medidas judiciais cabíveis, incluindo tutela inibitória
+     e reparação integral dos danos causados.
+
+──────────────────────────────────────────────────────────────────────────────
+6. CONTATO
+──────────────────────────────────────────────────────────────────────────────
+Para solicitar autorização de uso comercial ou tirar dúvidas sobre esta
+licença, entre em contato com o autor pelo e-mail: sptm18silva@gmail.com
+
+Esta licença é regida pelas leis da República Federativa do Brasil.
